@@ -1,4 +1,4 @@
-echo "install.bat worked" >C:/worked.txt
+echo "install.bat worked" >C:\worked.txt
 
 c:
 cd \inetpub\wwwroot
